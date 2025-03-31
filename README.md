@@ -1,4 +1,4 @@
 # Option_Pricing
 
 
-![My Plot](img/columns.png)
+![My Plot](img/Columns.png)
